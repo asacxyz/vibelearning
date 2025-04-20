@@ -86,3 +86,7 @@
 > - Key features  
 > - Non-functional requirements (e.g., performance, security, scalability)  
 > - Success criteria
+
+## Credits
+
+The content of this repository is based on the following [LinkedIn post](https://www.linkedin.com/posts/augusto-galego-60a0b1160_no-twitter-eu-comentei-sobre-como-eu-tenho-activity-7315643567526285312-g4Ji?utm_source=share&utm_medium=member_desktop&rcm=ACoAADR6_HIBbMysYkhSZtwh52IQa-qpL-Y-H5A) by [Augusto Galego](https://www.linkedin.com/in/augusto-galego-60a0b1160/). All rights to the original content belong to the author.
